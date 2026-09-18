@@ -14,7 +14,7 @@ Este proyecto implementa una solucion end-to-end de analisis e ingesta de datos.
 
 
 
-!\[Preview del dashboard](reports/dashboard\_preview.png)
+!\[Preview del dashboard](reports/dashboard_preview.png)
 
 
 
@@ -50,11 +50,10 @@ Este proyecto implementa una solucion end-to-end de analisis e ingesta de datos.
 
 
 
-\---
 
 
 
-\## Extructura del Repositorio
+
 
 
 

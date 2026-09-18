@@ -14,11 +14,7 @@ Este proyecto implementa una solucion end-to-end de analisis e ingesta de datos.
 
 
 
-!\[Preview del dashboard](reports/dashboard_preview.png)
-
-
-
-\## Arquitectura y componentes del sistema
+!\[Preview del dashboard](https://raw.githubusercontent.com/Ronald494/csharp-sqlserver-powerbi-data/main/reports/dashboard\_preview.png)## Arquitectura y componentes del sistema
 
 
 
@@ -47,31 +43,4 @@ Este proyecto implementa una solucion end-to-end de analisis e ingesta de datos.
 * Modelo analitico alimentado desde la vista de SQL SERVER.
 * \*\*Metricas dax:\*\* Ingresos Totales, Ticket Promedio, Unidades Vendidas Y Deteccion de Produtos con Stock critico.
 * Visualizaciones interactivas de tendencia temporal y distribucion por producto.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

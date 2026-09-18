@@ -12,12 +12,6 @@ Este proyecto implementa una solucion end-to-end de analisis e ingesta de datos.
 
 \## Dashboard con Power (BI)
 
-
-
-!\[Preview del dashboard](https://raw.githubusercontent.com/Ronald494/csharp-sqlserver-powerbi-data/main/reports/dashboard\_preview.png)## Arquitectura y componentes del sistema
-
-
-
 \### 1.Ingesta y procesamiento (C# - .net 8)
 
 \*lectura y validacion de archivos de transacciones en formato csv.

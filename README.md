@@ -2,7 +2,7 @@
 
 
 
-Este proyecto implementa una solucion end-to-end de analisis e ingesta de datos. Itegra una aplicacion de consola en \*\*C# (.NET8)\*\* para el procesamiento masivo de ventas desde archivos CSV, una base de datos relacional en \*\*SQL SERVER\*\* y un dashboard interactivo en \*\*Power BI\*\* para la toma de decisiones.
+Este proyecto implementa una solucion end-to-end de analisis e ingesta de datos. integra una aplicacion de consola en \*\*C# (.NET8)\*\* para el procesamiento masivo de ventas desde archivos CSV, una base de datos relacional en \*\*SQL SERVER\*\* y un dashboard interactivo en \*\*Power BI\*\* para la toma de decisiones.
 
 
 
